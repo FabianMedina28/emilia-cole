@@ -1,7 +1,6 @@
 body{background-image:url('/img/emilia-home.jpg');
-    background-position: right top;
-    background-position-x: 300px;
-    background-color: white;
+    background-position: right;
+    background-size: 75%;
     background-repeat: no-repeat;}
 h3{
     font-size: 60px;
